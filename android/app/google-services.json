@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "654427105668",
+    "project_id": "projecttmp-33b41",
+    "storage_bucket": "projecttmp-33b41.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654427105668:android:1d2a89f7b441104bd3d5d1",
+        "android_client_info": {
+          "package_name": "com.ybservice.tmp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCn-d64xP50kxoif0WySiGeRA_VugSTw30"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654427105668:android:b30e41dfbc2a937ed3d5d1",
+        "android_client_info": {
+          "package_name": "com.ybservice.tmp.dev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCn-d64xP50kxoif0WySiGeRA_VugSTw30"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654427105668:android:7a80c401836792dad3d5d1",
+        "android_client_info": {
+          "package_name": "com.ybservice.tmp_and"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCn-d64xP50kxoif0WySiGeRA_VugSTw30"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
